@@ -104,6 +104,10 @@ header {
         background-color: rgb(134, 125, 125);
     }
 
+    .img-nav {
+        margin-left: 120px;
+    }
+
     nav .container {
         flex-wrap: wrap;
     }
