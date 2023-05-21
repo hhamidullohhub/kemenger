@@ -62,12 +62,20 @@ header {
     .nav-li a {
         font-size: 12px;
     } 
+
+    .img-nav {
+        width: 50px;
+    }
 }
 
 @media (max-width: 560px) {
     .container {
         width: 540px;
         background-color: blue;
+    }
+
+    .nav-li a {
+        display: none;
     }
 }
 
