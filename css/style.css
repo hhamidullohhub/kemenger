@@ -34,45 +34,45 @@ header {
     }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 860px) {
     .container {
-        width: 940px;
+        width: 840px;
     }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 760px) {
     .container {
-        width: 940px;
+        width: 740px;
     }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 660px) {
     .container {
-        width: 940px;
+        width: 640px;
     }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 560px) {
     .container {
-        width: 940px;
+        width: 540px;
     }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 460px) {
     .container {
-        width: 940px;
+        width: 440px;
     }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 360px) {
     .container {
-        width: 940px;
+        width: 340px;
     }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 260px) {
     .container {
-        width: 940px;
+        width: 240px;
     }
 }
 
