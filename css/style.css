@@ -107,6 +107,10 @@ header {
     nav .container {
         flex-wrap: wrap;
     }
+
+    .call-number{
+        margin-left: 100px;
+    }
 }
 
 @media (max-width: 260px) {
