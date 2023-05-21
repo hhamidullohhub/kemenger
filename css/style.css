@@ -21,6 +21,61 @@ header {
     margin: 0 auto;
 }
 
+@media (max-width: 1160px) {
+    .container {
+        width: 1040px;
+        background-color: red;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 940px;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 940px;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 940px;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 940px;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 940px;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 940px;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 940px;
+    }
+}
+
+@media (max-width: 960px) {
+    .container {
+        width: 940px;
+    }
+}
+
 .nav-ul {
     display: flex;
     align-items: center;
