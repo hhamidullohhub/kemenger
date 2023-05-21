@@ -77,6 +77,14 @@ header {
     .nav-li a {
         display: none;
     }
+
+    .img-nav {
+        margin-left: 100px;
+    }
+
+    .call-number {
+        margin-right: 100px;
+    }
 }
 
 @media (max-width: 460px) {
