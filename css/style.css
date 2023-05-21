@@ -31,48 +31,64 @@ header {
 @media (max-width: 960px) {
     .container {
         width: 940px;
+        background-color: green;
     }
 }
 
 @media (max-width: 860px) {
     .container {
         width: 840px;
+        background-color: gold;
     }
 }
 
 @media (max-width: 760px) {
     .container {
         width: 740px;
+        background-color: pink;
     }
 }
 
 @media (max-width: 660px) {
     .container {
         width: 640px;
+        background-color: aqua;
     }
+
+    .call-number p {
+        font-size: 12px;
+    }
+
+    .nav-li a {
+        font-size: 12px;
+    } 
 }
 
 @media (max-width: 560px) {
     .container {
         width: 540px;
+        background-color: blue;
     }
 }
 
 @media (max-width: 460px) {
     .container {
         width: 440px;
+        background-color: rgb(230, 16, 123);
     }
 }
 
 @media (max-width: 360px) {
     .container {
         width: 340px;
+        background-color: black;
     }
 }
 
 @media (max-width: 260px) {
     .container {
         width: 240px;
+        background-color: chartreuse;
     }
 }
 
