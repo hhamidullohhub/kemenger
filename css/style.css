@@ -92,12 +92,16 @@ header {
         width: 440px;
         background-color: rgb(230, 16, 123);
     }
+
+    .call-number p {
+        font-size: 9px;
+    } 
 }
 
 @media (max-width: 360px) {
     .container {
         width: 340px;
-        background-color: black;
+        background-color: rgb(134, 125, 125);
     }
 }
 
