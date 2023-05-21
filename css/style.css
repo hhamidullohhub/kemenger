@@ -118,17 +118,6 @@ header {
     }
 }
 
-@media (max-width: 260px) {
-    .container {
-        width: 240px;
-        background-color: chartreuse;
-    }
-
-    .call-number {
-        width: 100px;
-    }
-}
-
 .nav-ul {
     display: flex;
     align-items: center;
