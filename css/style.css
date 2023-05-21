@@ -4,10 +4,27 @@
     box-sizing: border-box;
 }
 
-ul.li {
+ul,li {
     list-style: none;
 }
 
 a {
     text-decoration: none;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.nav-ul {
+    display: flex;
+    align-items: center;
+}
+
+nav .container {
+    display: flex;
+    align-items: center;
+    justify-content: 
+    space-between;
 }
