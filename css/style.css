@@ -28,3 +28,7 @@ nav .container {
     justify-content: 
     space-between;
 }
+
+.call-number {
+    display: flex;
+}
