@@ -31,4 +31,9 @@ nav .container {
 
 .call-number {
     display: flex;
+    align-items: center;
+}
+
+.call-number p {
+    margin-left: 10px;
 }
