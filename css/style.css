@@ -12,6 +12,10 @@ a {
     text-decoration: none;
 }
 
+header {
+    background-color: #E5E5E5;
+}
+
 .container {
     width: 1140px;
     margin: 0 auto;
@@ -36,4 +40,8 @@ nav .container {
 
 .call-number p {
     margin-left: 10px;
+}
+
+.nav-li {
+    margin: 0 10px;
 }
