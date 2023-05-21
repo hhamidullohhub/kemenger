@@ -103,6 +103,10 @@ header {
         width: 340px;
         background-color: rgb(134, 125, 125);
     }
+
+    nav .container {
+        flex-wrap: wrap;
+    }
 }
 
 @media (max-width: 260px) {
