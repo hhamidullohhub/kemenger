@@ -114,6 +114,7 @@ header {
 
     .call-number{
         margin-left: 100px;
+        margin-top: 20px;
     }
 }
 
@@ -121,6 +122,10 @@ header {
     .container {
         width: 240px;
         background-color: chartreuse;
+    }
+
+    .call-number {
+        width: 100px;
     }
 }
 
