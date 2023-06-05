@@ -142,3 +142,21 @@ nav .container {
 .nav-li {
     margin: 0 10px;
 }
+
+.kemenger .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.kemenger-text {
+    width: 350px;
+}
+
+.kemenger-img img {
+    width: 500px;
+}
+
+.kemenger-b {
+    color: blue;
+}
