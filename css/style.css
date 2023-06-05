@@ -159,6 +159,11 @@ nav .container {
 
 .kemenger-img img {
     width: 400px;
+    transition: .6s;
+}
+
+.kemenger-img img:hover {
+    transform: scale(1.2);
 }
 
 .kemenger-b {
@@ -174,7 +179,7 @@ nav .container {
 }
 
 .zayafka:hover {
-    transform: translate(45deg);
+    
 }
 .kemenger-texts {
     line-height: 25px;
