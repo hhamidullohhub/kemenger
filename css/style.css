@@ -166,5 +166,7 @@ nav .container {
 }
 
 .zayafka {
+    padding: 20px 25px;
+    border-radius: 30px;
     background-color: yellow;
 }
