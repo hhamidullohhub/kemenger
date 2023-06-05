@@ -170,6 +170,11 @@ nav .container {
     border-radius: 30px;
     background-color: yellow;
     color: black;
+    box-shadow: 0px 0px 10px 0px;
+}
+
+.zayafka:hover {
+    transform: translate(45deg);
 }
 .kemenger-texts {
     line-height: 25px;
