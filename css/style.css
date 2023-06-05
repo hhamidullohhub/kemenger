@@ -175,12 +175,10 @@ nav .container {
     border-radius: 30px;
     background-color: yellow;
     color: black;
-    box-shadow: 0px 0px 10px 0px;
+    box-shadow: 0px 0px 10px 0px yellow;
 }
 
-.zayafka:hover {
-    
-}
+
 .kemenger-texts {
     line-height: 25px;
     padding: 50px 0px;
